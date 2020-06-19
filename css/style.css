@@ -1,0 +1,41 @@
+.exchange-rate {
+   margin-top: 30px;
+}
+
+.rate {
+   margin-top: 30px;
+}
+
+.rate__title {
+   margin-bottom: 10px;
+}
+
+.converter {
+   margin-top: 30px;
+}
+
+.converter__title {
+   margin-bottom: 15px;
+}
+
+.rate_item {
+   font-size: 20px;
+   font-weight: 400;
+}
+
+.btn {
+   margin-left: 10px;
+   margin-top: -5px;
+}
+
+input {
+   padding-left: 5px;
+}
+
+.error {
+   display: none;
+   font-size: 30px;
+   font-weight: 500;
+   color: red;
+   text-align: center;
+}
